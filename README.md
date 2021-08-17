@@ -32,6 +32,6 @@
 
 ##
 
-![Snake animation](https://github.com/heliohachimine/heliohachimine/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thiagohlopes/thiagohlopes/blob/master/snake.yml)
 
 ##
