@@ -8,7 +8,7 @@
 ### A little about myself:
 - I currently work at startup Grão Direto
 - I work in the data engineering area
-- I have a passion for programming
+- I'm passionate about programming
 
 <br>
 
@@ -25,3 +25,4 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
+- How to reach me: thiagolopes621@gmail.com
