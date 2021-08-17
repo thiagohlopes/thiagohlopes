@@ -5,4 +5,4 @@
 
 ### Hi, my name is Thiago and I'm majoring in computer engineering!
 
-##A little about myself:
+## A little about myself:
