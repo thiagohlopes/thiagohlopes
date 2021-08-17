@@ -32,6 +32,6 @@
 
 ##
 
-![Snake animation](https://github.com/thiagohlopes/thiagohlopes/blob/master/snake.yml)
+![Snake animation](https://github.com/thiagohlopes/thiagohlopes/blob/output/github-contribution-grid-snake.svg)
 
 ##
