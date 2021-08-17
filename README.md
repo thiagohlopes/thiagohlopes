@@ -27,3 +27,11 @@
 </div><br>
 
 - How to reach me: thiagolopes621@gmail.com
+
+
+
+##
+
+![Snake animation](https://github.com/heliohachimine/heliohachimine/blob/output/github-contribution-grid-snake.svg)
+
+##
