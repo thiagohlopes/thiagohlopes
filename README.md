@@ -7,7 +7,9 @@
 
 ### A little about myself:
 • I currently work at startup Grão Direto
+
 • I work in the data engineering area
+
 • I have a passion for programming
 
 
