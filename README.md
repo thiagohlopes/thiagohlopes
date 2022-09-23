@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohlopes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Hi, my name is Thiago and I'm majoring in computer engineering!
+## Hi, my name is Thiago and I'm a computer engineer!!
 
 ### A little about myself:
 - I currently work at startup Grão Direto
