@@ -5,14 +5,44 @@
 
 ## Hi, my name is Thiago and I'm a computer engineer!!
 
-### A little about myself:
-- I currently work at startup Grão Direto
-- I work in the data engineering area
-- I'm passionate about programming
+### Um pouco sobre mim:
+👋🏽 Olá, meu nome é Thiago Henrique Lopes, tenho 23 Anos e amante de programação, engenharia e ciência de dados.
+
+🎓Graduado em Engenharia da computação pelo Instituto Federal do Triangulo Mineiro.
+🤖 Atuei em um projeto de inteligência artificial para reconhecimento de imagens com redes CNN
+🌎Participante do projeto internacional Lapassion da ERASMUS+
+🔬Participei do projeto de pesquisa do uso de rede neural para "Desenvolvimento de tecnologia por imagem no monitoramento de fósforo foliar no cultivo de batata."
+📈 Trabalho de conclusão de Curso com tema de Sistemas de Recomendação com ML/AI (RecSys)
+
+👨‍💻Atualmente Trabalho com Engenharia de Dados na Startup Grão Direto
+
+🏅Certificado em:
+AZ-900: Azure Fundamentals
+DP-900: Azure Data Fundamentals
+AI-900: Azure AI Fundamentals
+Databricks Lakehouse Fundamentals
+
+💬 Pode me perguntar sobre:
+ - Azure (Pipelines, Data factory, Azure Function)
+ - Data/Delta Lake
+ - Databricks
+ - Data Warehouse/Lakehouse
+ - Crawler / Web Scraping
+ - ETL / ELT
+ - SQL
+ - Power Bi
+ - Python
+
+
+📖 Aprendendo sobre:
+ - Artificial intelligence and Machine Learning
+ - DataBricks
+ - PySpark
+ - Delta Lake (Lake House)
 
 <br>
 
-### Maybe I can help you with:
+### Talvez consiga te ajuda com:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 </div>
 <div style="display: inline_block"><br>
