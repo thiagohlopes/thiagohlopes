@@ -6,7 +6,7 @@
 ## Hi, my name is Thiago and I'm a computer engineer!!
 
 ### Um pouco sobre mim:
-👋🏽 Olá, meu nome é Thiago Henrique Lopes, tenho 23 Anos e amante de programação, engenharia e ciência de dados.
+👋🏽 Olá, meu nome é Thiago Henrique Lopes, amante de programação, engenharia e ciência de dados.
 
 🎓Graduado em Engenharia da computação pelo Instituto Federal do Triangulo Mineiro.
 🤖 Atuei em um projeto de inteligência artificial para reconhecimento de imagens com redes CNN
@@ -14,13 +14,16 @@
 🔬Participei do projeto de pesquisa do uso de rede neural para "Desenvolvimento de tecnologia por imagem no monitoramento de fósforo foliar no cultivo de batata."
 📈 Trabalho de conclusão de Curso com tema de Sistemas de Recomendação com ML/AI (RecSys)
 
-👨‍💻Atualmente Trabalho com Engenharia de Dados na Startup Grão Direto
+👨‍💻Atualmente Trabalho como Data Lead na Startup Grão Direto
 
 🏅Certificado em:
 AZ-900: Azure Fundamentals
 DP-900: Azure Data Fundamentals
 AI-900: Azure AI Fundamentals
+DP-203: Azure Data Engineer Associate
+DP-600: Fabric Analytics Engineer Associate
 Databricks Lakehouse Fundamentals
+Databricks Generative AI Fundamentals
 
 💬 Pode me perguntar sobre:
  - Azure (Pipelines, Data factory, Azure Function)
