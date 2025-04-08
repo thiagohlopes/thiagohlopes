@@ -8,13 +8,13 @@
 ### Um pouco sobre mim:
 👋🏽 Olá, meu nome é Thiago Henrique Lopes, amante de programação, engenharia e ciência de dados.
 
+👨‍💻Atualmente Trabalho como Sr Data engineer na CI&T
+
 🎓Graduado em Engenharia da computação pelo Instituto Federal do Triangulo Mineiro.
 🤖 Atuei em um projeto de inteligência artificial para reconhecimento de imagens com redes CNN
 🌎Participante do projeto internacional Lapassion da ERASMUS+
 🔬Participei do projeto de pesquisa do uso de rede neural para "Desenvolvimento de tecnologia por imagem no monitoramento de fósforo foliar no cultivo de batata."
 📈 Trabalho de conclusão de Curso com tema de Sistemas de Recomendação com ML/AI (RecSys)
-
-👨‍💻Atualmente Trabalho como Data Lead na Startup Grão Direto
 
 🏅Certificado em:
 AZ-900: Azure Fundamentals
@@ -24,6 +24,7 @@ DP-203: Azure Data Engineer Associate
 DP-600: Fabric Analytics Engineer Associate
 Databricks Lakehouse Fundamentals
 Databricks Generative AI Fundamentals
+Databricks Data Engineer ASsociate
 
 💬 Pode me perguntar sobre:
  - Azure (Pipelines, Data factory, Azure Function)
@@ -41,7 +42,7 @@ Databricks Generative AI Fundamentals
  - Artificial intelligence and Machine Learning
  - DataBricks
  - PySpark
- - Delta Lake (Lake House)
+ - Delta Lake
 
 <br>
 
