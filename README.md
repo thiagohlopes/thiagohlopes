@@ -17,14 +17,14 @@
 📈 Trabalho de conclusão de Curso com tema de Sistemas de Recomendação com ML/AI (RecSys)
 
 🏅Certificado em:
-AZ-900: Azure Fundamentals
-DP-900: Azure Data Fundamentals
-AI-900: Azure AI Fundamentals
-DP-203: Azure Data Engineer Associate
-DP-600: Fabric Analytics Engineer Associate
-Databricks Lakehouse Fundamentals
-Databricks Generative AI Fundamentals
-Databricks Data Engineer ASsociate
+- AZ-900: Azure Fundamentals
+- DP-900: Azure Data Fundamentals
+- AI-900: Azure AI Fundamentals
+- DP-203: Azure Data Engineer Associate
+- DP-600: Fabric Analytics Engineer Associate
+- Databricks Lakehouse Fundamentals
+- Databricks Generative AI Fundamentals
+- Databricks Data Engineer ASsociate
 
 💬 Pode me perguntar sobre:
  - Azure (Pipelines, Data factory, Azure Function)
