@@ -17,6 +17,7 @@
 📈 Trabalho de conclusão de Curso com tema de Sistemas de Recomendação com ML/AI (RecSys)
 
 🏅Certificado em:
+
 AZ-900: Azure Fundamentals
 DP-900: Azure Data Fundamentals
 AI-900: Azure AI Fundamentals
