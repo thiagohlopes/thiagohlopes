@@ -8,7 +8,7 @@
 ### Um pouco sobre mim:
 👋🏽 Olá, meu nome é Thiago Henrique Lopes, amante de programação, engenharia e ciência de dados.
 
-👨‍💻Atualmente Trabalho como Sr Data engineer na CI&T
+👨‍💻Atualmente Trabalho como Sr Data engineer
 
 🎓Graduado em Engenharia da computação pelo Instituto Federal do Triangulo Mineiro.
 🤖 Atuei em um projeto de inteligência artificial para reconhecimento de imagens com redes CNN
